@@ -43,12 +43,6 @@ This is a full-stack dynamic real estate website with an admin panel that allows
    ```
 6. Access the website at `http://localhost:8000`
 
-## Contributing
-- Fork the repository
-- Create a feature branch (`git checkout -b feature-branch`)
-- Commit your changes (`git commit -m 'Added new feature'`)
-- Push to the branch (`git push origin feature-branch`)
-- Submit a pull request
 
 ## License
 This project is licensed under the MIT License.
